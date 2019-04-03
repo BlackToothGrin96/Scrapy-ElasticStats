@@ -1,5 +1,5 @@
 # Scrapy-ElasticStats
-Send Scrapy stats to ElasticSearch
+### Send Scrapy stats to ElasticSearch
 
 A scrapy middleware for sending stats to ElasticSearch
 
@@ -14,7 +14,7 @@ EXTENSIONS = {
     
 }
 
-#Replace values as appropriate
+#### Replace values as appropriate
 
 ELASTICSTATS_ENABLED = 'True/False'
 
